@@ -1,0 +1,6 @@
+C:\git\DS98991\coursera\A6\Q2\Q2\bin\Debug\Q2.exe
+C:\git\DS98991\coursera\A6\Q2\Q2\bin\Debug\Q2.pdb
+C:\git\DS98991\coursera\A6\Q2\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+C:\git\DS98991\coursera\A6\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\git\DS98991\coursera\A6\Q2\Q2\obj\Debug\Q2.exe
+C:\git\DS98991\coursera\A6\Q2\Q2\obj\Debug\Q2.pdb

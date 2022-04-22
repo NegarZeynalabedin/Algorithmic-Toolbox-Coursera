@@ -1,0 +1,11 @@
+C:\git\DS98991\coursera\A4\Q5\Q5\bin\Debug\netcoreapp2.2\Q5.deps.json
+C:\git\DS98991\coursera\A4\Q5\Q5\bin\Debug\netcoreapp2.2\Q5.runtimeconfig.json
+C:\git\DS98991\coursera\A4\Q5\Q5\bin\Debug\netcoreapp2.2\Q5.runtimeconfig.dev.json
+C:\git\DS98991\coursera\A4\Q5\Q5\bin\Debug\netcoreapp2.2\Q5.dll
+C:\git\DS98991\coursera\A4\Q5\Q5\bin\Debug\netcoreapp2.2\Q5.pdb
+C:\git\DS98991\coursera\A4\Q5\Q5\obj\Debug\netcoreapp2.2\Q5.csprojAssemblyReference.cache
+C:\git\DS98991\coursera\A4\Q5\Q5\obj\Debug\netcoreapp2.2\Q5.csproj.CoreCompileInputs.cache
+C:\git\DS98991\coursera\A4\Q5\Q5\obj\Debug\netcoreapp2.2\Q5.AssemblyInfoInputs.cache
+C:\git\DS98991\coursera\A4\Q5\Q5\obj\Debug\netcoreapp2.2\Q5.AssemblyInfo.cs
+C:\git\DS98991\coursera\A4\Q5\Q5\obj\Debug\netcoreapp2.2\Q5.dll
+C:\git\DS98991\coursera\A4\Q5\Q5\obj\Debug\netcoreapp2.2\Q5.pdb

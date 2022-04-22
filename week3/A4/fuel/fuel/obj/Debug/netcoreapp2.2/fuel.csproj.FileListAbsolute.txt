@@ -1,0 +1,11 @@
+C:\git\DS98991\coursera\A4\fuel\fuel\bin\Debug\netcoreapp2.2\fuel.deps.json
+C:\git\DS98991\coursera\A4\fuel\fuel\bin\Debug\netcoreapp2.2\fuel.runtimeconfig.json
+C:\git\DS98991\coursera\A4\fuel\fuel\bin\Debug\netcoreapp2.2\fuel.runtimeconfig.dev.json
+C:\git\DS98991\coursera\A4\fuel\fuel\bin\Debug\netcoreapp2.2\fuel.dll
+C:\git\DS98991\coursera\A4\fuel\fuel\bin\Debug\netcoreapp2.2\fuel.pdb
+C:\git\DS98991\coursera\A4\fuel\fuel\obj\Debug\netcoreapp2.2\fuel.csprojAssemblyReference.cache
+C:\git\DS98991\coursera\A4\fuel\fuel\obj\Debug\netcoreapp2.2\fuel.csproj.CoreCompileInputs.cache
+C:\git\DS98991\coursera\A4\fuel\fuel\obj\Debug\netcoreapp2.2\fuel.AssemblyInfoInputs.cache
+C:\git\DS98991\coursera\A4\fuel\fuel\obj\Debug\netcoreapp2.2\fuel.AssemblyInfo.cs
+C:\git\DS98991\coursera\A4\fuel\fuel\obj\Debug\netcoreapp2.2\fuel.dll
+C:\git\DS98991\coursera\A4\fuel\fuel\obj\Debug\netcoreapp2.2\fuel.pdb
